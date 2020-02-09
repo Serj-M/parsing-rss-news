@@ -1,0 +1,26 @@
+{
+  "name": "rss-news",
+  "version": "1.0.0",
+  "description": "Parsing rss news from yandex",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "rss",
+    "news"
+  ],
+  "author": "Serj Makshakov <dus-f@mail.ru>",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "request": "^2.88.0",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}

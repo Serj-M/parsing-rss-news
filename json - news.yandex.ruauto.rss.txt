@@ -1,0 +1,159 @@
+{ status: 'ok',
+  feed:
+   { url: 'https://news.yandex.ru/auto.rss',
+     title: 'Яндекс.Новости: Авто',
+     link: 'https://news.yandex.ru/auto.html?from=rss',
+     author: '',
+     description:
+      'Первая в России служба автоматической обработки и систематизации новостей. Сообщения ведущих российских и мировых СМИ. Обновление в режиме реального времени 24 часа в сутки.',
+     image: 'https://company.yandex.ru/i/50x23.gif' },
+  items:
+   [ { title: 'В России выросли цены на Chevrolet Tahoe и Traverse',
+       pubDate: '2019-02-14 11:37:21',
+       link:
+        'https://news.yandex.ru/story/V_Rossii_vyrosli_ceny_na_Chevrolet_Tahoe_i_Traverse--4f54a44c86969852c888b09d7c7821be?lang=ru&amp;from=rss&amp;stid=ZUJMGv1OC9ZptPEpZhcL',
+       guid:
+        'https://news.yandex.ru/story/V_Rossii_vyrosli_ceny_na_Chevrolet_Tahoe_i_Traverse--4f54a44c86969852c888b09d7c7821be?lang=ru&amp;from=rss&amp;stid=ZUJMGv1OC9ZptPEpZhcL',
+       author: '',
+       thumbnail: '',
+       description:
+        'Монументальный внедорожник Chevrolet Tahoe продают от 4 490 000 рублей (модификация LT). Максимальный ценник достиг отметки в 4 990 000 рублей (версия Premier). Напомним, оба SUV в России лишились начальной комплектации LE.',
+       content:
+        'Монументальный внедорожник Chevrolet Tahoe продают от 4 490 000 рублей (модификация LT). Максимальный ценник достиг отметки в 4 990 000 рублей (версия Premier). Напомним, оба SUV в России лишились начальной комплектации LE.',
+       enclosure: {},
+       categories: [] },
+     { title: 'Тайваньская марка Luxgen показала новый кроссовер',
+       pubDate: '2019-02-14 11:20:26',
+       link:
+        'https://news.yandex.ru/story/Tajvanskaya_marka_Luxgen_pokazala_novyj_krossover--1c1f916729cee0e5e547e9f58faf3fcf?lang=ru&amp;from=rss&amp;stid=SDVTWmUAam5Ypq4P',
+       guid:
+        'https://news.yandex.ru/story/Tajvanskaya_marka_Luxgen_pokazala_novyj_krossover--1c1f916729cee0e5e547e9f58faf3fcf?lang=ru&amp;from=rss&amp;stid=SDVTWmUAam5Ypq4P',
+       author: '',
+       thumbnail: '',
+       description:
+        'Автопроизводитель Luxgen опубликовал первые официальные изображения среднеразмерного паркетника URX. На снимках показан экстерьер кроссовера, фото салона пока только шпионские. Презентация «живого» автомобиля намечена на второй квартал нынешнего года.',
+       content:
+        'Автопроизводитель Luxgen опубликовал первые официальные изображения среднеразмерного паркетника URX. На снимках показан экстерьер кроссовера, фото салона пока только шпионские. Презентация «живого» автомобиля намечена на второй квартал нынешнего года.',
+       enclosure: {},
+       categories: [] },
+     { title:
+        'Новый Mercedes-Benz S-Class получит гигантский центральный дисплей',
+       pubDate: '2019-02-14 11:38:00',
+       link:
+        'https://news.yandex.ru/story/Novyj_Mercedes-Benz_S-Class_poluchit_gigantskij_centralnyj_displej--6db74c2a53e809f482b6de9dc5f3014b?lang=ru&amp;from=rss&amp;stid=F7hmEZr2LVOgJ77d0Sil',
+       guid:
+        'https://news.yandex.ru/story/Novyj_Mercedes-Benz_S-Class_poluchit_gigantskij_centralnyj_displej--6db74c2a53e809f482b6de9dc5f3014b?lang=ru&amp;from=rss&amp;stid=F7hmEZr2LVOgJ77d0Sil',
+       author: '',
+       thumbnail: '',
+       description:
+        'Фото публикует издание autocar. Итак, главным откровением, если не сказать сенсацией, стал запечатленный папарацци дисплей мультимедийного комплекса MBUX.',
+       content:
+        'Фото публикует издание autocar. Итак, главным откровением, если не сказать сенсацией, стал запечатленный папарацци дисплей мультимедийного комплекса MBUX.',
+       enclosure: {},
+       categories: [] },
+     { title:
+        'Тюнеры из TopCar создали внедорожник Inferno из «Гелентвагена»',
+       pubDate: '2019-02-14 11:58:41',
+       link:
+        'https://news.yandex.ru/story/Tyunery_iz_TopCar_sozdali_vnedorozhnik_Inferno_iz_Gelentvagena--dd104f4d8f9711ea6a55f913922bf671?lang=ru&amp;from=rss&amp;stid=EhQHuM_OZnF-',
+       guid:
+        'https://news.yandex.ru/story/Tyunery_iz_TopCar_sozdali_vnedorozhnik_Inferno_iz_Gelentvagena--dd104f4d8f9711ea6a55f913922bf671?lang=ru&amp;from=rss&amp;stid=EhQHuM_OZnF-',
+       author: '',
+       thumbnail: '',
+       description:
+        'Разработчики покрасили в том числе и заднюю крышку запасного колеса, диффузор и спойлер на крыше. В TopCar отмечают, что из-за высокой сложности и большого количества элементов, требуется около двух недель, чтобы создать один экземпляр пакета, предназначенный для легендарного внедорожника.',
+       content:
+        'Разработчики покрасили в том числе и заднюю крышку запасного колеса, диффузор и спойлер на крыше. В TopCar отмечают, что из-за высокой сложности и большого количества элементов, требуется около двух недель, чтобы создать один экземпляр пакета, предназначенный для легендарного внедорожника.',
+       enclosure: {},
+       categories: [] },
+     { title:
+        'Аналитики подсчитали количество автомобильной техники в России',
+       pubDate: '2019-02-14 14:03:44',
+       link:
+        'https://news.yandex.ru/story/Analitiki_podschitali_kolichestvo_avtomobilnoj_tekhniki_v_Rossii--1c11c0e8f056a8b3549f20dcc83b5fc6?lang=ru&amp;from=rss&amp;stid=18ETl2U8kuvKDFFNKLhN',
+       guid:
+        'https://news.yandex.ru/story/Analitiki_podschitali_kolichestvo_avtomobilnoj_tekhniki_v_Rossii--1c11c0e8f056a8b3549f20dcc83b5fc6?lang=ru&amp;from=rss&amp;stid=18ETl2U8kuvKDFFNKLhN',
+       author: '',
+       thumbnail: '',
+       description:
+        'По состоянию на первое января текущего года в РФ парк автомобильной техники насчитывает 51,8 миллиона единиц, такие данные приводят аналитики из агентства «Автостат».',
+       content:
+        'По состоянию на первое января текущего года в РФ парк автомобильной техники насчитывает 51,8 миллиона единиц, такие данные приводят аналитики из агентства «Автостат».',
+       enclosure: {},
+       categories: [] },
+     { title: 'KIA вывела на тесты новый компактный кроссовер KIA Tusker',
+       pubDate: '2019-02-13 15:45:15',
+       link:
+        'https://news.yandex.ru/story/KIA_vyvela_na_testy_novyj_kompaktnyj_krossover_KIA_Tusker--52d84a09ad5f997252631da1e5ab79ee?lang=ru&amp;from=rss&amp;stid=27n7s1yfP3PKUE2v-u7T',
+       guid:
+        'https://news.yandex.ru/story/KIA_vyvela_na_testy_novyj_kompaktnyj_krossover_KIA_Tusker--52d84a09ad5f997252631da1e5ab79ee?lang=ru&amp;from=rss&amp;stid=27n7s1yfP3PKUE2v-u7T',
+       author: '',
+       thumbnail: '',
+       description:
+        'Компания KIA скоро пополнит свою линейку SUV новой глобальной моделью. На днях KIA вывела на тесты компактный кроссовер Tusker, созданный на базе Hyundai Creta следующего поколения. Первые шпионские фотографии автомобиля опубликовало издание Motor1.',
+       content:
+        'Компания KIA скоро пополнит свою линейку SUV новой глобальной моделью. На днях KIA вывела на тесты компактный кроссовер Tusker, созданный на базе Hyundai Creta следующего поколения. Первые шпионские фотографии автомобиля опубликовало издание Motor1.',
+       enclosure: {},
+       categories: [] },
+     { title:
+        'Audi готовит к дебюту и серии новый электрокросс Audi Q4 e-Tron',
+       pubDate: '2019-02-14 11:53:18',
+       link:
+        'https://news.yandex.ru/story/Audi_gotovit_k_debyutu_i_serii_novyj_ehlektrokross_Audi_Q4_e-Tron--164104a22316ac4fade9f1249f7d2751?lang=ru&amp;from=rss&amp;stid=mNvmTGD4bDXtfAX6_XF4',
+       guid:
+        'https://news.yandex.ru/story/Audi_gotovit_k_debyutu_i_serii_novyj_ehlektrokross_Audi_Q4_e-Tron--164104a22316ac4fade9f1249f7d2751?lang=ru&amp;from=rss&amp;stid=mNvmTGD4bDXtfAX6_XF4',
+       author: '',
+       thumbnail: '',
+       description:
+        'Немецкая компания готовит младшую версию собственного электрокара. Предполагается, что будущий Audi Q4 e-Tron получит ценник наравне с Tesla Model 3 и встанет на конвейер в 2020-2021 году.',
+       content:
+        'Немецкая компания готовит младшую версию собственного электрокара. Предполагается, что будущий Audi Q4 e-Tron получит ценник наравне с Tesla Model 3 и встанет на конвейер в 2020-2021 году.',
+       enclosure: {},
+       categories: [] },
+     { title: 'Volkswagen показал тизер нового T-Roc R',
+       pubDate: '2019-02-14 08:02:04',
+       link:
+        'https://news.yandex.ru/story/Volkswagen_pokazal_tizer_novogo_T-Roc_R--4cc661b157fb0adb329d37918b688573?lang=ru&amp;from=rss&amp;stid=6ZNNd-oKgMYCV0uNF0z9',
+       guid:
+        'https://news.yandex.ru/story/Volkswagen_pokazal_tizer_novogo_T-Roc_R--4cc661b157fb0adb329d37918b688573?lang=ru&amp;from=rss&amp;stid=6ZNNd-oKgMYCV0uNF0z9',
+       author: '',
+       thumbnail: '',
+       description:
+        'Представители немецкой компании показали тизер новой модели SUV-сегмента. Официальный дебют нового кроссовера Volkswagen T-Roc R состоится уже в ближайшее время на автосалоне в Женеве, который откроется 5 марта текущего года. Тизер немецкой новинки раскрывает некоторые особенности модели.',
+       content:
+        'Представители немецкой компании показали тизер новой модели SUV-сегмента. Официальный дебют нового кроссовера Volkswagen T-Roc R состоится уже в ближайшее время на автосалоне в Женеве, который откроется 5 марта текущего года. Тизер немецкой новинки раскрывает некоторые особенности модели.',
+       enclosure: {},
+       categories: [] },
+     { title:
+        'BMW 5-Series назвали январским бестселлером бренда в России',
+       pubDate: '2019-02-14 12:05:19',
+       link:
+        'https://news.yandex.ru/story/BMW_5-Series_nazvali_yanvarskim_bestsellerom_brenda_v_Rossii--7015407e03d7a16ae78b57b3760ebc18?lang=ru&amp;from=rss&amp;stid=uxE_tic6IigyDREnz-27',
+       guid:
+        'https://news.yandex.ru/story/BMW_5-Series_nazvali_yanvarskim_bestsellerom_brenda_v_Rossii--7015407e03d7a16ae78b57b3760ebc18?lang=ru&amp;from=rss&amp;stid=uxE_tic6IigyDREnz-27',
+       author: '',
+       thumbnail: '',
+       description:
+        'Бестселлером немецкой компании в России стал седан BMW 5-Series, реализованный в количестве 390 экземпляров, что на 23% больше, чем за январь 2018 года. За ним в списке самых популярных моделей идёт компактный кроссовер BMW
+X3, в пользу которого свой выбор сделали 374 автомобилиста.',
+       content:
+        'Бестселлером немецкой компании в России стал седан BMW 5-Series, реализованный в количестве 390 экземпляров, что на 23% больше, чем за январь 2018 года. За ним в списке самых популярных моделей идёт компактный кроссовер BMW
+X3, в пользу которого свой выбор сделали 374 автомобилиста.',
+       enclosure: {},
+       categories: [] },
+     { title:
+        'Mitsubishi создала «усеченного клона» обновленной Delica D:5',
+       pubDate: '2019-02-14 04:00:00',
+       link:
+        'https://news.yandex.ru/story/Mitsubishi_sozdala_usechennogo_klona_obnovlennoj_Delica_D5--599370c7438b11aaec4427286970af10?lang=ru&amp;from=rss&amp;stid=aVNmRzCfg5KKJKEv7eCx',
+       guid:
+        'https://news.yandex.ru/story/Mitsubishi_sozdala_usechennogo_klona_obnovlennoj_Delica_D5--599370c7438b11aaec4427286970af10?lang=ru&amp;from=rss&amp;stid=aVNmRzCfg5KKJKEv7eCx',
+       author: '',
+       thumbnail: '',
+       description:
+        '«Близнецы» eK/Dayz сегодняшней генерации производятся уже пять с лишним лет в рамках совместного завода под названием Nissan Mitsubishi Kei Vehicle. Обновленный eK Wagon оказался клоном модернизированного минивэна Delica D:5, только в уменьшенном виде.',
+       content:
+        '«Близнецы» eK/Dayz сегодняшней генерации производятся уже пять с лишним лет в рамках совместного завода под названием Nissan Mitsubishi Kei Vehicle. Обновленный eK Wagon оказался клоном модернизированного минивэна Delica D:5, только в уменьшенном виде.',
+       enclosure: {},
+       categories: [] } ] }
+	   

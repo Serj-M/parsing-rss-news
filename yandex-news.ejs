@@ -1,0 +1,7 @@
+<h3><%= cnt %> последних новостей от Яндекс в категории <%= search %></h3>
+  <dl>
+    <% for ( let i=0; i < cnt; i++ ){ %>
+      <dt><a href="<%= link[i] %>"><%= title[i] %></a></dt>
+      <dd><%= description[i] %></dd> 
+    <% } %> 
+  </dl>
