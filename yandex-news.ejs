@@ -1,7 +1,28 @@
-<h3><%= cnt %> последних новостей от Яндекс в категории <%= search %></h3>
-  <dl>
-    <% for ( let i=0; i < cnt; i++ ){ %>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="/css/style.css" rel="stylesheet" type="text/css">
+  <title>Новости <%= category %></title>
+</head>
+<body>
+  <div class='wrap'>
+    <h2><%= cnt %> последних новостей от Яндекс в категории <%= category %></h2>
+    <hr>
+    <dl>
+      <% for ( let i=0; i < cnt; i++ ){ %>
       <dt><a href="<%= link[i] %>"><%= title[i] %></a></dt>
-      <dd><%= description[i] %></dd> 
-    <% } %> 
-  </dl>
+      <dd><%= description[i] %></dd>
+      <br>
+      <% } %>
+    </dl>
+    
+    <div class='divbutton'>
+      <a href="/"><button id='btn'>На главную</button></a>
+    </div>
+  </div>
+</body>
+</html>
+
+

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/css/style.css" rel="stylesheet" type="text/css">
+    <title>Парсинг новостей</title>
+</head>
+<body>
+    <div class='wrap'>
+        <h1>Парсинг Яндекс новостей</h1>
+        <div class='category'>
+            <p>Выберете категорию новостей:</p>
+            <select name="categorySelect" id="categorySelect">
+                <option value="auto">Авто</option>
+                <option value="internet">Интернет</option>
+                <option value="culture">Культура</option>
+                <option value="world">Мир</option>
+                <option value="politics">Политика</option>
+                <option value="sport">Спорт</option>
+                <option value="movies">Фильмы</option>
+            </select>
+        </div>
+        <div class='count'>
+            <p>Выберите количество новостей:</p>
+            <select name="countSelect" id="countSelect">
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+                <option value="10">10</option>
+            </select>
+        </div>
+        <div class='divbutton'>
+            <button id='btn'>Получить новости</button>
+        </div>
+    </div>
+</body>
+<script src="frontend.js"></script>
+</html>
