@@ -39,7 +39,7 @@ h2{
 
 .count{
     display: inline-block;
-    min-width: 300px;
+    min-width: 200px;
     min-height: 150px;
     background-color: rgb(93, 96, 110);
     padding: 20px;
@@ -49,7 +49,7 @@ h2{
 
 .category{
     display: inline-block;
-    min-width: 300px;
+    min-width: 200px;
     min-height: 150px;
     background-color: rgb(93, 96, 110);
     padding: 20px;
