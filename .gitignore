@@ -11,6 +11,7 @@
 
 # production
 /build
+/still-chamber-91212
 
 # misc
 .DS_Store
