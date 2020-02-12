@@ -34,6 +34,15 @@ app.get('/yandex/:cnt/news/for/:search', function(req, res){
   // Получаю значения для переменных из параметра обработчика запросов app.get(). Это удается сделать за счет переменных шаблонизатора EJS ( :cnt(в примере: 10) и :search(в примере: AUTO) )
   let cnt = req.params.cnt;
   let category = req.params.search;
+  let objCat = {
+    auto: 'авто', 
+    world: 'мир', 
+    internet: 'интернет', 
+    sport: 'спорт', 
+    culture: 'культура', 
+    movies: 'кино', 
+    politics: 'политика'
+  };
   let search = 'https://news.yandex.ru/' + req.params.search + '.rss';
   search = 'https://news.yandex.ru/' + req.params.search + '.rss';
   
@@ -83,7 +92,7 @@ app.get('/yandex/:cnt/news/for/:search', function(req, res){
     res.render("yandex-news", {
                                 cnt: cnt,
                                 search: search,
-                                category: category,
+                                category: objCat[category],
                                 link: arrLink,
                                 title: arrTitle,
                                 description: arrDescription
