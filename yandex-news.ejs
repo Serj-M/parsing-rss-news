@@ -4,11 +4,11 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="/css/style.css" rel="stylesheet" type="text/css">
-  <title>Новости <%= category %></title>
+  <title>Новости из категории <%= category %></title>
 </head>
 <body>
   <div class='wrap'>
-    <h2><%= cnt %> последних новостей от Яндекс в категории <%= category %></h2>
+    <h2><%= cnt %> последн<% if(cnt==1) { %>яя<% } else if(cnt<5) { %>ие<% } else { %>их<% } %> новост<% if(cnt==1) { %>ь<% } else if(cnt<5) { %>и<% } else { %>ей<% } %> от Яндекс в категории <%= category %></h2>
     <hr>
     <dl>
       <% for ( let i=0; i < cnt; i++ ){ %>
